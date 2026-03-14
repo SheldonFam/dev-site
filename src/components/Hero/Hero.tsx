@@ -30,7 +30,7 @@ export function Hero() {
           Get in Touch
         </a>
         <a
-          href="#experience"
+          href="#projects"
           className="inline-flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-semibold bg-transparent text-text-primary border border-border-custom hover:border-text-muted hover:bg-surface transition-all"
         >
           View My Work
