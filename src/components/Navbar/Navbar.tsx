@@ -11,7 +11,7 @@ export function Navbar() {
   return (
     <>
       <nav className="fixed top-0 w-full bg-nav-bg backdrop-blur-xl border-b border-border-custom z-50 px-8 transition-colors duration-300">
-        <div className="max-w-[1100px] mx-auto flex items-center justify-between h-15">
+        <div className="max-w-275 mx-auto flex items-center justify-between h-15">
           <div className="font-bold text-lg tracking-tight">
             sheldon<span className="text-accent">.dev</span>
           </div>

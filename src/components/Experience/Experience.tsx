@@ -10,7 +10,7 @@ export function Experience() {
     <section
       id="experience"
       ref={ref}
-      className={`max-w-[1100px] mx-auto px-8 py-24 ${isVisible ? "animate-fade-in-up" : "opacity-0"}`}
+      className={`max-w-275 mx-auto px-8 py-24 ${isVisible ? "animate-fade-in-up" : "opacity-0"}`}
     >
       <SectionHeader
         tag="Career"

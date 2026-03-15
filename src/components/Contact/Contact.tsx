@@ -4,10 +4,7 @@ import { ContactIcon } from "../common/ContactIcon";
 
 export function Contact() {
   return (
-    <section
-      id="contact"
-      className="max-w-[1100px] mx-auto px-8 py-24 text-center"
-    >
+    <section id="contact" className="max-w-275 mx-auto px-8 py-24 text-center">
       <SectionHeader
         tag="Let's Connect"
         title="Get in Touch"
